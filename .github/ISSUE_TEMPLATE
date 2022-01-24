@@ -1,0 +1,14 @@
+---
+name: ideas submission issue
+about: Use this template for submitting idea for the SBI Innovate hackathon
+title: "[DATE]: [FEATURE NAME]"
+labels: ideas issue
+assignees: 
+
+** Please ensure you have checked all the tasks in this Issue before creating it **
+- [x] Read hackathon usecase carefully
+- [ ] Ensure that your README.md file is updated
+- [ ] Ensure your idea is submitted in a *.ppt, *.pptx format within the ideas folder
+- [ ] Create Issue
+
+---
